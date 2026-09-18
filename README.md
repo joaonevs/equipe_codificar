@@ -8,9 +8,7 @@ Laravel 12 · Inertia.js 2 · Vue 3 · Tailwind CSS 4 · SQLite · Pest
 
 ## Instalação — passo a passo
 
-Antes de começar, confira o arquivo **`REQUISITOS.txt`** e garanta que todos os itens dele passam. É o passo que mais costuma travar (faltam extensões do PHP que o Ubuntu não instala por padrão).
-
-Depois, dentro da pasta do projeto (`cd controle-chamados`), siga **nesta ordem, um comando de cada vez**:
+Dentro da pasta do projeto (`cd controle-chamados`), siga **nesta ordem, um comando de cada vez**:
 
 **Passo 1 — instalar as dependências do PHP**
 ```bash
